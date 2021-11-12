@@ -1,5 +1,5 @@
 {
-  "name": "requireurl",
+  "name": "@wikgu/requireurl",
   "version": "1.0.0",
   "description": "Load JavaScript file from Network URL",
   "main": "index.js",
