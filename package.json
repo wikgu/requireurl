@@ -1,0 +1,14 @@
+{
+  "name": "requireurl",
+  "version": "1.0.0",
+  "description": "Load JavaScript file from Network URL",
+  "main": "index.js",
+  "repository": "https://github.com/wikgu/requireurl",
+  "scripts": {
+    "example": "node examples/"
+  },
+  "author": "wikgu",
+  "license": "gpl-3.0",
+
+  "type": "module"
+}
