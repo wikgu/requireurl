@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "Load JavaScript file from Network URL",
   "main": "index.js",
-  "repository": "https://github.com/wikgu/requireurl",
+  "repository": "git://github.com/wikgu/requireurl.git",
   "scripts": {
     "example": "node examples/"
   },
   "author": "wikgu",
   "license": "gpl-3.0",
 
-  "type": "module"
+  "type": "module",
+
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
