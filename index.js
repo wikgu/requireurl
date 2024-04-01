@@ -1,7 +1,7 @@
 import https from "https";
 
 export default (url) => {
-  let body = [];
+  const body = [];
   return new Promise((resolve, reject) => {
     try {
       https
